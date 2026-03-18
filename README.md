@@ -27,10 +27,9 @@ Le dataset contient 1153 annonces en entrainement et 289 annonces en test. Les d
 ML_projet/
     kaggle_train.csv          donnees d'entrainement (1153 lignes)
     kaggle_test.csv           donnees de test (289 lignes)
-    nouakchott_final.ipynb    notebook principal
+    Projet_machine.ipynb    notebook principal
     submission.csv            fichier de soumission Kaggle
     feature_importance.png    graphique des features importantes
-    rapport_immobilier_nouakchott.html   rapport complet
     README.md
 ```
 
