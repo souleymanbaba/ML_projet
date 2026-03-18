@@ -28,8 +28,6 @@ ML_projet/
     kaggle_train.csv          donnees d'entrainement (1153 lignes)
     kaggle_test.csv           donnees de test (289 lignes)
     Projet_machine.ipynb    notebook principal
-    submission.csv            fichier de soumission Kaggle
-    feature_importance.png    graphique des features importantes
     README.md
 ```
 
